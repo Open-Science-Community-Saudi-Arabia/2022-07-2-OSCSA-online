@@ -5,9 +5,10 @@ layout: workshop      # DON'T CHANGE THIS.
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Online"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 country: "Saudi Arabia"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
+address: online
 language: "Arabic"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "0"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "0"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "July 2-3, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "10:00 am - 2:00 pm Riyadh (7:00 am - 11:00 am UTC)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-07-02      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
