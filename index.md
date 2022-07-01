@@ -13,8 +13,8 @@ humandate: "July 2-3, 2022"    # human-readable dates for the workshop (e.g., "F
 humantime: "10:00 am - 2:00 pm Riyadh (7:00 am - 11:00 am UTC)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-07-02      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-07-03        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Batool Almarzouq", "Hussain Alsalman", Abdulrahman Alasiri, Abdulrahman Alswaji, Haifa Ben Messaoud] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Aroob Alhumaidy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Batool Almarzouq", "Hussain Alsalman", Abdulrahman Alasiri, Abdulrahman Alswaji, Haifa Ben Messaoud, Monah Abou Alezz, Ammar Alkhaldi, ] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Aroob Alhumaidy", "Annajiat Alim Rasel"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["admin@openscisaudi.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://docs.google.com/document/d/1Q9AUjQMbWZ6zrO7M0opNMneWcZ5m8_kmoPvYM-nwQQ8/edit?usp=sharing # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
